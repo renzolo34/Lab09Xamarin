@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+LbaJXTaVM7sk5KGbbIFsJolXEhBkdvhnh5hyk/8iMVqcvDHNk1y9wJTFBiXDOKvosmmf2l3ZgbXlsVgoseRMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renlo\\OneDrive\\Escritorio\\GestureLab09-master\\GestureLab09\\GestureLab09.iOS\\GestureLab09.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renlo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\renlo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\renlo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
